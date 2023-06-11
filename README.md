@@ -1,7 +1,7 @@
 
 <p align="center"><img alt="Profile Banner" src="https://github.com/awsautomation/awsautomation/assets/19566456/b39604b2-e999-40e0-bd86-9cc8fb4ace43"></p>
 
-I am a Platform Engineering | SRE Cloud | AWS | GCP | DevOps | Docker | Kubernetes | Ansible | Terraform | Ubuntu | RedHat | Technical Writer | Tech Trainer. I am passionate about promoting Open Source literacy and inclusivity.
+I am a DevOps & Cloud Engineer.I like mentoring dev advocay on AWS, Terraform and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
 
