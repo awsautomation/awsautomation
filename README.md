@@ -1,6 +1,8 @@
 
-<p align="center"><img alt="Profile Banner" src="https://github.com/awsautomation/awsautomation/assets/19566456/b39604b2-e999-40e0-bd86-9cc8fb4ace43"></p>
+<p align="center"><img alt="Profile Banner" src="https://github.com/awsautomation/awsautomation/assets/19566456/444d182f-5394-4cf7-bf29-f7226536128f"></p>
 
+<div align="center">
+  
 I am a DevOps & Cloud Engineer.I like mentoring dev advocay on AWS, Terraform and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
