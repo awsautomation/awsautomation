@@ -3,7 +3,7 @@
 
 <div align="center">
   
-I am a DevOps & Cloud Engineer.I like mentoring dev advocay on AWS, Terraform and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
+I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, Terraform, Ansible, Kubernetes and Docker Orchestration tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
 
