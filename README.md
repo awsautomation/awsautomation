@@ -1,10 +1,7 @@
-
 <p align="center"><img alt="Profile Banner" src="https://github.com/awsautomation/awsautomation/assets/19566456/444d182f-5394-4cf7-bf29-f7226536128f"></p>
 
-<div align="center">
-  
+<div align="center"> 
 I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, Terraform, Ansible, Kubernetes and Docker Orchestration tools. I am passionate about promoting Open Source literacy and inclusivity.
-  
 </div>
 
 <!--
