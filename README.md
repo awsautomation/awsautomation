@@ -14,8 +14,12 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awsautomation&theme=codeSTACKr)
 
 ## 🔥 Most Used Languages & Repositories  
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awsautomation&theme=codeSTACKr) 
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awsautomation&theme=codeSTACKr)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awsautomation&theme=codeSTACKr)
+
+## 🏆 Additional Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awsautomation&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awsautomation&layout=compact&theme=dark&hide_border=true)
 
 ## 🚀 Contribution & Growth  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awsautomation&theme=react-dark&area=true&hide_border=true)
@@ -23,12 +27,6 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 ## 🔥 GitHub Streak & Activity  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awsautomation&theme=dark&hide_border=true)  
 ![Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=awsautomation&theme=dark&hide_border=true)
-
-## 🏆 Additional Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awsautomation&show_icons=true&theme=dark&hide_border=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awsautomation&layout=compact&theme=dark&hide_border=true)
-
-
 
 
 ## 🧑‍💻 My Current Projects
