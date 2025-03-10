@@ -25,7 +25,7 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awsautomation&theme=react-dark&area=true&hide_border=true)
 
 ## 🔥 GitHub Streak & Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awsautomation&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awsautomation&theme=dark&hide_border=true)
 ![Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=awsautomation&theme=dark&hide_border=true)
 
 
