@@ -31,11 +31,12 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 
 ## 🧑‍💻 My Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=CloudOps&theme=codeSTACKr)](https://github.com/awsautomation/CloudOps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=mongodb-atlas-mean-stack&theme=codeSTACKr)](https://github.com/awsautomation/mongodb-atlas-mean-stack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-bitbucket&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-bitbucket)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-crowd&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-crowd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-confluence&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-confluence)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-services&theme=codeSTACKr)](https://github.com/https://github.com/awsautomation/atlassian-services)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=terraform-aws-ecs&theme=codeSTACKr)](https://github.com/awsautomation/terraform-aws-ecs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=mongodb-atlas-mean-stack&theme=codeSTACKr)](https://github.com/awsautomation/mongodb-atlas-mean-stack)
 
 <!--
 **awsautomation/awsautomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
