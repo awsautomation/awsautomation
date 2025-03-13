@@ -37,4 +37,5 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-crowd&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-crowd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-confluence&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-confluence)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-services&theme=codeSTACKr)](https://github.com/https://github.com/awsautomation/atlassian-services)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=harbor-scanner-trivy&theme=codeSTACKr)](https://github.com/awsautomation/harbor-scanner-trivy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=mongodb-atlas-mean-stack&theme=codeSTACKr)](https://github.com/awsautomation/mongodb-atlas-mean-stack)
