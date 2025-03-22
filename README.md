@@ -31,6 +31,7 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 
 ## 🧑‍💻 My Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=CloudOps&theme=codeSTACKr)](https://github.com/awsautomation/CloudOps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=nestJS-newrelic-integration&theme=codeSTACKr)](https://github.com/awsautomation/nestJS-newrelic-integration)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=terraform-provider-harbor&theme=codeSTACKr)](https://github.com/awsautomation/terraform-provider-harbor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=terraform-aws-ecs&theme=codeSTACKr)](https://github.com/awsautomation/terraform-aws-ecs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=AWS-DevOps-Project&theme=codeSTACKr)](https://github.com/awsautomation/AWS-DevOps-Project)
