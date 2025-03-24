@@ -34,6 +34,7 @@ I am a DevOps & Cloud Platform Engineer. I like mentoring, dev advocacy on AWS, 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=nestJS-newrelic-integration&theme=codeSTACKr)](https://github.com/awsautomation/nestJS-newrelic-integration)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=terraform-provider-harbor&theme=codeSTACKr)](https://github.com/awsautomation/terraform-provider-harbor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=terraform-aws-ecs&theme=codeSTACKr)](https://github.com/awsautomation/terraform-aws-ecs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=newrelic-lambda-extension&theme=codeSTACKr)](https://github.com/awsautomation/newrelic-lambda-extension)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=AWS-DevOps-Project&theme=codeSTACKr)](https://github.com/awsautomation/AWS-DevOps-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-bitbucket&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-bitbucket)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awsautomation&repo=atlassian-crowd&theme=codeSTACKr)](https://github.com/awsautomation/atlassian-crowd)
